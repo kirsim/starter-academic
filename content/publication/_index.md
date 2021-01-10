@@ -1,15 +1,14 @@
 ---
-title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
+title: Ergotropy from indefinite causal order
 view: 4
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+publication_types:
+  - "3"
+authors:
+  - Lorenzo Luperi
+author_notes: []
+doi: ""
+date: 2021-01-10T16:09:09.077Z
 ---
