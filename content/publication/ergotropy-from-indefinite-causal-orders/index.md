@@ -5,7 +5,7 @@ publication_types:
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: infnumbersquantum-1024x513.png
   focal_point: Smart
   preview_only: false
 date: 2021-01-10T16:36:44.146Z
