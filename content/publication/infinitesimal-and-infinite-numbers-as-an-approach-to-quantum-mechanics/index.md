@@ -7,7 +7,7 @@ authors:
   - Lorenzo Luperi Baglini
 publication: In *Quantum*
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
