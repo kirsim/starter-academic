@@ -12,7 +12,7 @@ header:
 title: Ergotropy from indefinite causal orders
 author_notes: []
 doi: ""
-featured: false
+featured: true
 tags:
   - causality
   - cycle
