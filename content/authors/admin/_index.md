@@ -28,7 +28,7 @@ social:
       header: false
     icon_pack: fab
     icon: researchgate
-    link: https://www.researchgate.net/profile/Kyrylo_Sim
+    link: https://www.researchgate.net/profile/Kyrylo_Simonov?ev=hdr_xprf
 organizations:
   - name: University of Vienna
     url: https://mat.univie.ac.at/
