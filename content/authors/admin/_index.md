@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: arxiv
     icon_pack: ai
-    link: https://arxiv.org/find/grp_math,grp_physics/1/au:+Simonov_K/0/1/0/all/0/1
+    link: https://arxiv.org/a/simonov_k_1.html
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=it&user=7GQ9ioEAAAAJ
@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/in/kyrylo-simonov-5833b835
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Kyrylo_Sim
 organizations:
