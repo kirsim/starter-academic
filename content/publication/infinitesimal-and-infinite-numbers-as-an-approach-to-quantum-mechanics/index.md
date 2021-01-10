@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Vieri Benci
   - Lorenzo Luperi Baglini
-publication: Quantum
+publication: In *Quantum*
 draft: false
 featured: false
 image:
