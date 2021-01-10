@@ -3,7 +3,7 @@ title: Ergotropy from indefinite causal orders
 publication_types:
   - "3"
 authors:
-  - Gianluca Francica
+  - with Gianluca Francica
   - Giacomo Guarnieri
   - and Mauro Paternostro
 doi: ""
@@ -27,7 +27,7 @@ tags:
 categories:
   - quantum thermodynamics
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2020-09-30T15:36:44.146Z
