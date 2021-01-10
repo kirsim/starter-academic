@@ -13,20 +13,20 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: arxiv
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: ai
+    link: https://arxiv.org/find/grp_math,grp_physics/1/au:+Simonov_K/0/1/0/all/0/1
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=it&user=7GQ9ioEAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-6764-8555
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kyrylo-simonov-5833b835
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: ai
     icon: researchgate
     link: https://www.researchgate.net/profile/Kyrylo_Sim
 organizations:
