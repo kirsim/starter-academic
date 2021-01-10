@@ -2,6 +2,10 @@
 title: Ergotropy from indefinite causal orders
 publication_types:
   - "3"
+authors:
+  - Gianluca Francica
+  - Giacomo Guarnieri
+  - and Mauro Paternostro
 draft: false
 featured: true
 image:
