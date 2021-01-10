@@ -8,7 +8,7 @@ publication: In *Quantum*
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: infnumbersquantum-1024x513.png
   focal_point: Smart
   preview_only: false
 date: 2019-05-03T15:22:31.119Z
