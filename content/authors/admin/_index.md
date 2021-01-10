@@ -24,6 +24,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Kyrylo_Sim
 organizations:
   - name: University of Vienna
     url: https://mat.univie.ac.at/
