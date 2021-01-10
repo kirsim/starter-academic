@@ -3,9 +3,9 @@ view: 4
 publication_types:
   - "3"
 authors:
-  - Lorenzo Luperi
-  - Mauro
-publication: arXiv
+  - With Gianluca Francica
+  - Giacomo Guarnieri and Mauro Paternostro
+publication: In *arXiv*
 header:
   caption: ""
   image: ""
@@ -16,5 +16,5 @@ featured: false
 tags:
   - causality
   - cycle
-date: 2021-01-10T16:20:08.281Z
+date: 2020-09-30T15:20:08.281Z
 ---
