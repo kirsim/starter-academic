@@ -6,10 +6,17 @@ authors:
   - Gianluca Francica
   - Giacomo Guarnieri
   - and Mauro Paternostro
+publication: In *arXiv*
 draft: false
 featured: true
+tags:
+  - causality
+  - quantum channel
+  - unitary cycle
+categories:
+  - quantum thermodynamics
 image:
-  filename: infnumbersquantum-1024x513.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-01-10T16:36:44.146Z
