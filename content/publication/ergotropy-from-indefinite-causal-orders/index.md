@@ -25,7 +25,6 @@ tags:
   - quantum channel
   - unitary cycle
 categories:
-  - fundamental concepts
   - quantum thermodynamicsquantum
 image:
   filename: featured.png
