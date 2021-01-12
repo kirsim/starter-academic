@@ -18,11 +18,11 @@ abstract: We study a class of delta-like perturbations of the Laplacian on the
   origin.
 draft: false
 featured: true
-tags: []
-categories:
+tags:
   - applied nonstandard analysis
   - elliptic PDEs
-  - operator theorylliptic
+categories:
+  - operator theory
 image:
   filename: featured
   focal_point: Smart
