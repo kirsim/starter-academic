@@ -16,9 +16,10 @@ abstract: Non-Archimedean mathematics is an approach based on fields which
   for a Hamiltonian with the delta function potential.
 draft: false
 featured: true
-categories:
+tags:
   - applied nonstandard analysis
-  - mathematical physics
+  - quantum formalism
+categories:
   - quantum foundations
 image:
   filename: featured.png
