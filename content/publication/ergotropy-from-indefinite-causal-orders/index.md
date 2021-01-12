@@ -25,7 +25,7 @@ tags:
   - quantum channel
   - unitary cycle
 categories:
-  - quantum thermodynamicsquantum
+  - quantum thermodynamics
 image:
   filename: featured.png
   focal_point: Smart
