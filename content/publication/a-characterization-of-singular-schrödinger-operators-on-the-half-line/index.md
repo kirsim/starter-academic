@@ -20,9 +20,9 @@ draft: false
 featured: true
 tags: []
 categories:
-  - elliptic PDEs
-  - operator theory
   - applied nonstandard analysis
+  - elliptic PDEs
+  - operator theorylliptic
 image:
   filename: featured
   focal_point: Smart
