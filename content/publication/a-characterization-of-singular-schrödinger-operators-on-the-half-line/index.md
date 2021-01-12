@@ -20,10 +20,12 @@ draft: false
 featured: true
 tags: []
 categories:
+  - elliptic PDEs
   - operator theory
+  - applied nonstandard analysis
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-12-08T19:19:28.917Z
+date: 2020-12-07T19:19:28.917Z
 ---
