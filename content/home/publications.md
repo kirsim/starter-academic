@@ -1,10 +1,10 @@
 ---
 widget: pages
-widget_id: Recent-Publications
+widget_id: Publications
 weight: 90
 title: Recent Publications
 subtitle: ""
-active: false
+active: true
 content:
   page_type: publication
   count: 0
