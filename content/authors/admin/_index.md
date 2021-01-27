@@ -1,8 +1,8 @@
 ---
 role: Mathematical Physicist
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include quantum foundations, applied nonstandard
+  analysis, and fundamental questions of physics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
