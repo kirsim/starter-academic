@@ -18,6 +18,11 @@ abstract: "The dynamics of a quantum system with internal degrees of freedom
   properties of the noise field essential for collapse models. "
 draft: false
 featured: false
+tags:
+  - measurement problem
+  - mixed particles
+  - spontaneous collapse
+  - stochastic PDEs
 categories:
   - quantum foundations
 image:
