@@ -3,9 +3,8 @@ title: A characterization of singular Schrödinger operators on the half-line
 publication_types:
   - "2"
 authors:
-  - with Raffaele Scandone and <a
-    href="https://sites.unimi.it/Luperi_Baglini/research/">Lorenzo Luperi
-    Baglini</a>
+  - with Raffaele Scandone and [Lorenzo Luperi
+    Baglini](https://sites.unimi.it/Luperi_Baglini/research/)
 doi: 10.4153/S0008439520000958
 publication: In *Canadian Mathematical Bulletin*
 publication_short: In *Can. Math. Bull.*
