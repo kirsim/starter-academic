@@ -3,9 +3,7 @@ title: Gravity, entanglement, and CPT-symmetry violation in particle mixing
 publication_types:
   - "2"
 authors:
-  - Kyrylo Simonov
-  - Antonio Capolupo
-  - Salvatore Marco Giampaolo
+  - with Antonio Capolupo and Salvatore Marco Giampaolo
 doi: 10.1140/epjc/s10052-019-7407-y
 publication: In *European Physical Journal C*
 publication_short: In *Eur. Phys. J. C*
