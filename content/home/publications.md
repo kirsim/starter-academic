@@ -7,7 +7,7 @@ subtitle: ""
 active: true
 content:
   page_type: publication
-  count: 5
+  count: 0
   offset: 0
   order: desc
   filters:
@@ -18,7 +18,7 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 4
+  view: 2
 ---
 
 {{% callout note %}}
