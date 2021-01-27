@@ -18,7 +18,7 @@ abstract: "We study the probability oscillations of mixed particles in the
   confined in microtraps can simulate the mixing and the mutual interaction and
   could allow to test the mechanism here presented. "
 draft: false
-featured: true
+featured: false
 tags:
   - discrete symmetries
   - gravity
