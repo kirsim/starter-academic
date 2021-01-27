@@ -25,6 +25,13 @@ abstract: "Spontaneous collapse models aim to resolve the measurement problem in
   calculus. "
 draft: false
 featured: false
+tags:
+  - measurement problem
+  - mixed particles
+  - spontaneous collapse
+  - stochastic PDEs
+categories:
+  - quantum foundations
 image:
   filename: featured
   focal_point: Smart
