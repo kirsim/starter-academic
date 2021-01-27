@@ -5,6 +5,7 @@ publication_types:
 authors:
   - with Vieri Benci and Lorenzo Luperi Baglini
 doi: 10.22331/q-2019-05-03-137
+url_pdf: "https://arxiv.org/abs/1901.10945"
 publication: In *Quantum*
 abstract: Non-Archimedean mathematics is an approach based on fields which
   contain infinitesimal and infinite elements. Within this approach, we
