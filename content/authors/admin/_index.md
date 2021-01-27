@@ -33,13 +33,13 @@ organizations:
     url: https://mat.univie.ac.at/
 education:
   courses:
-    - course: Ph.D. in Theoretical Physics
+    - course: Ph.D. in Physics
       institution: University of Vienna
       year: 2018
-    - course: M.Sc. in Theoretical Physics
+    - course: M.Sc. in Physics
       institution: Taras Shevchenko National University of Kyiv
       year: 2014
-    - course: B.Sc. in Theoretical Physics
+    - course: B.Sc. in Physics
       institution: Taras Shevchenko National University of Kyiv
       year: 2012
 superuser: true
