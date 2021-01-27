@@ -47,9 +47,6 @@ highlight_name: false
 title: Dr. Kyrylo Simonov
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am postdoctoral researcher working on mathematical foundations of quantum mechanics. I was awarded my PhD in June 2018 from University of Vienna with the thesis “Analysis of Spontaneous Collapse in a Neutral Meson System” focused on the intersection of quantum foundations (measurement problem, spontaneous collapse models) and high energy physics (particle phenomenology). Before my graduate studies at UV, I received degrees in physics at Taras Shevchenko National University of Kyiv with concentration in theoretical biological physics (statistical mechanics of DNA). My current research focuses on quantum foundations and tools from nonstandard analysis to find a consistent mathematical framework of quantum theory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
