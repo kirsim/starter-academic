@@ -5,6 +5,11 @@ publication_types:
 authors:
   - with Raffaele Scandone and Lorenzo Luperi Baglini
 doi: 10.4153/S0008439520000958
+
+[[url_arXiv]]
+name = "arXiv"
+url = "https://arxiv.org/abs/2004.04212"
+
 publication: In *Canadian Mathematical Bulletin*
 publication_short: In *Can. Math. Bull.*
 abstract: We study a class of delta-like perturbations of the Laplacian on the
