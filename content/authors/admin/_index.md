@@ -49,4 +49,4 @@ email: ""
 ---
 I am postdoctoral researcher working on mathematical foundations of quantum mechanics. I was awarded my PhD in June 2018 from University of Vienna with the thesis “Analysis of Spontaneous Collapse in a Neutral Meson System” focused on the intersection of quantum foundations (measurement problem, spontaneous collapse models) and high energy physics (particle phenomenology). Before my graduate studies at UV, I received degrees in physics at Taras Shevchenko National University of Kyiv with concentration in theoretical biological physics (statistical mechanics of DNA). My current research focuses on quantum foundations and tools from nonstandard analysis to find a consistent mathematical framework of quantum theory.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
