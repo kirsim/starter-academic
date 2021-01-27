@@ -4,6 +4,7 @@ widget_id: Publications
 weight: 90
 title: Publications
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 5
