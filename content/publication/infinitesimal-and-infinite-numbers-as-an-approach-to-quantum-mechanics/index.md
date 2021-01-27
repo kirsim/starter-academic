@@ -23,7 +23,7 @@ categories:
   - quantum foundations
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Right
   preview_only: true
 date: 2019-05-03T15:22:31.119Z
 ---
