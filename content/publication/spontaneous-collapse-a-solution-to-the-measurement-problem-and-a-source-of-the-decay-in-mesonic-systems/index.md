@@ -37,7 +37,7 @@ tags:
 categories:
   - quantum foundations
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2016-11-28T14:41:00.000Z
