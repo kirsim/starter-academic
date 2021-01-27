@@ -4,9 +4,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include quantum foundations, applied nonstandard
   analysis, and fundamental questions of physics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Nonstandard Analysis
+  - Fundamental Questions
+  - Quantum Foundations
 social:
   - icon: envelope
     icon_pack: fas
