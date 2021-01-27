@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - with Raffaele Scandone and Lorenzo Luperi Baglini
-url_pdf: "https://arxiv.org/abs/2004.04212"
+url_arXiv: "https://arxiv.org/abs/2004.04212"
 doi: 10.4153/S0008439520000958
 publication: In *Canadian Mathematical Bulletin*
 publication_short: In *Can. Math. Bull.*
