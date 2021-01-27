@@ -32,7 +32,7 @@ tags:
 categories:
   - condensed matter physics
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2018-02-06T14:32:00.000Z
