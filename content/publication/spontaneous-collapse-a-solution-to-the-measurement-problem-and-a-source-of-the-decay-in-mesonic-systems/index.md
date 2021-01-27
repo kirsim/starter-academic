@@ -29,11 +29,16 @@ abstract: "Dynamical reduction models propose a solution to the measurement
   the measurement problem."
 draft: false
 featured: false
+tags:
+  - measurement problem
+  - mixed particles
+  - spontaneous collapse
+  - stochastic PDEs
 categories:
   - quantum foundations
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2018-11-28T14:41:00.000Z
+date: 2016-11-28T14:41:00.000Z
 ---
