@@ -1,7 +1,6 @@
 ---
 widget: featured
-widget_id: Featured Publications
-headless: true
+widget_id: Publications
 weight: 80
 title: Featured Publications
 subtitle: ""
@@ -15,6 +14,7 @@ content:
     publication_type: ""
     tag: ""
   order: desc
+headless: true
 design:
   view: 3
 ---
