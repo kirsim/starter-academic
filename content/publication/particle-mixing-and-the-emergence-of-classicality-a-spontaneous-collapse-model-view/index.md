@@ -24,7 +24,7 @@ abstract: "Spontaneous collapse models aim to resolve the measurement problem in
   a physical intuition behind the Itō-Stratonovich dilemma in stochastic
   calculus. "
 draft: false
-featured: true
+featured: false
 tags:
   - measurement problem
   - mixed particles
