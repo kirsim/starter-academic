@@ -21,6 +21,7 @@ tags:
   - measurement problem
   - mixed particles
   - spontaneous collapse
+  - stochastic PDEs
 categories:
   - quantum foundations
 image:
