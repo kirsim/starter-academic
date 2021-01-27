@@ -28,7 +28,7 @@ categories:
   - quantum thermodynamics
 image:
   filename: featured.png
-  focal_point: Smart
-  preview_only: false
+  focal_point: Right
+  preview_only: true
 date: 2020-09-30T15:36:44.146Z
 ---
