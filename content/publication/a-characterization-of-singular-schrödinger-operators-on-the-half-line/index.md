@@ -25,7 +25,7 @@ categories:
   - operator theory
 image:
   filename: featured
-  focal_point: Smart
-  preview_only: false
+  focal_point: Right
+  preview_only: true
 date: 2020-12-07T19:19:28.917Z
 ---
