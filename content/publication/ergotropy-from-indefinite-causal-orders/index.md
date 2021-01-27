@@ -1,14 +1,4 @@
 ---
-title: Ergotropy from indefinite causal orders
-publication_types:
-  - "3"
-authors:
-  - with Gianluca Francica
-  - Giacomo Guarnieri
-  - and Mauro Paternostro
-doi: ""
-url_pdf: "https://arxiv.org/abs/2009.11265"
-publication: In *arXiv*
 abstract: We characterize the impact that the application of two consecutive
   quantum channels or their quantum superposition (thus, without a definite
   causal order) has on ergotropy, i.e. the maximum work that can be extracted
@@ -20,7 +10,17 @@ abstract: We characterize the impact that the application of two consecutive
   ergotropy. Finally, we extend our results to d-dimensional quantum systems
   undergoing a pair of completely depolarizing channels.
 draft: false
-featured: true
+url_pdf: https://arxiv.org/abs/2009.11265
+title: Ergotropy from indefinite causal orders
+publication_types:
+  - "3"
+authors:
+  - with Gianluca Francica
+  - Giacomo Guarnieri
+  - and Mauro Paternostro
+doi: ""
+publication: In *arXiv*
+featured: false
 tags:
   - causality
   - quantum channel
