@@ -40,5 +40,6 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Dependence of the effective collapse rate on the time assymetry of the noise
 date: 2016-11-28T14:41:00.000Z
 ---
