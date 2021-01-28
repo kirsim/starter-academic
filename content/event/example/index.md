@@ -10,20 +10,20 @@ abstract: Non-Archimedean mathematics, in particular, nonstandard analysis is an
   Hamiltonian with the Dirac delta potential.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
-date_end: 2019-11-14T14:00:00.000Z
+summary:
+date_end: 2019-11-14T15:00:00.000Z
 event_url: https://www.iqoqi-vienna.at/detail/event/talk-by-kyrylo-simonov/
 authors: []
 url_video: ""
-date: 2019-11-14T13:00:00.000Z
+date: 2019-11-14T14:00:00.000Z
 featured: false
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: Boltzmanngasse 3
+  city: Vienna
+  region: 
+  postcode: "1090"
+  country: Austria
 title: Nonstandard analysis meets quantum mechanics
 location: Institute for Quantum Optics and Quantum Information (IQOQI) of the
   Austrian Academy of Sciences, Vienna, Austria
