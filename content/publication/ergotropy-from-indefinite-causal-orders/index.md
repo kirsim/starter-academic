@@ -7,7 +7,7 @@ authors:
   - Giacomo Guarnieri
   - and Mauro Paternostro
 doi: ""
-url_custom:
+links:
   name: "arXiv"
   url: "https://arxiv.org/abs/2009.11265"
 publication: In *arXiv*
