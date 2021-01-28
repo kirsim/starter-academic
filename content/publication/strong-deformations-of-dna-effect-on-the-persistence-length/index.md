@@ -24,7 +24,7 @@ tags:
 categories:
   - biological physics
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2018-09-28T13:27:00.000Z
