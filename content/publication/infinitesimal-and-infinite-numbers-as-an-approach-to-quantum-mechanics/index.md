@@ -8,7 +8,6 @@ abstract: Non-Archimedean mathematics is an approach based on fields which
   applications of quantum mechanics, particularly for the Schrödinger equation
   for a Hamiltonian with the delta function potential.
 draft: false
-url_pdf: https://arxiv.org/abs/1901.10945
 title: Infinitesimal and Infinite Numbers as an Approach to Quantum Mechanics
 publication_types:
   - "2"
