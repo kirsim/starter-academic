@@ -1,5 +1,5 @@
 ---
-title: Non-Archimedean mathematics
+title: Non-Archimedean mathematics and the framework of quantum mechanics
 abstract: Non-Archimedean mathematics, in particular, nonstandard analysis is an
   approach based on fields that contain infinitesimal and infinite elements.
   Within this approach, we construct a space of a particular class of
