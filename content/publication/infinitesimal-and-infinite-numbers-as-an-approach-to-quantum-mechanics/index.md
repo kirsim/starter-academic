@@ -1,4 +1,11 @@
 ---
+title: Infinitesimal and Infinite Numbers as an Approach to Quantum Mechanics
+publication_types:
+  - "2"
+authors:
+  - with Vieri Benci and Lorenzo Luperi Baglini
+doi: 10.22331/q-2019-05-03-137
+publication: In *Quantum*
 abstract: Non-Archimedean mathematics is an approach based on fields which
   contain infinitesimal and infinite elements. Within this approach, we
   construct a space of a particular class of generalized functions,
@@ -8,13 +15,6 @@ abstract: Non-Archimedean mathematics is an approach based on fields which
   applications of quantum mechanics, particularly for the Schrödinger equation
   for a Hamiltonian with the delta function potential.
 draft: false
-title: Infinitesimal and Infinite Numbers as an Approach to Quantum Mechanics
-publication_types:
-  - "2"
-authors:
-  - with Vieri Benci and Lorenzo Luperi Baglini
-doi: 10.22331/q-2019-05-03-137
-publication: In *Quantum*
 featured: false
 tags:
   - applied nonstandard analysis
@@ -23,7 +23,8 @@ categories:
   - quantum foundations
 image:
   filename: featured.png
-  focal_point: Right
-  preview_only: true
+  focal_point: Smart
+  preview_only: false
+  caption: Representation of the hyperreal line
 date: 2019-05-03T15:22:31.119Z
 ---
