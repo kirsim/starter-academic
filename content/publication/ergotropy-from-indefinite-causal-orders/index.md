@@ -10,7 +10,6 @@ abstract: We characterize the impact that the application of two consecutive
   ergotropy. Finally, we extend our results to d-dimensional quantum systems
   undergoing a pair of completely depolarizing channels.
 draft: false
-url_pdf: https://arxiv.org/abs/2009.11265
 title: Ergotropy from indefinite causal orders
 publication_types:
   - "3"
