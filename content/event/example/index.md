@@ -18,7 +18,7 @@ address:
   postcode: "1090"
   country: Austria
 title: Nonstandard analysis meets quantum mechanics
-location: IQOQI, Vienna, Austria
+location: IQOQI, Boltzmanngasse 3, 1090 Vienna, Austria
 links: []
 event: IQOQI Seminar
 publishDate: 2019-11-14T13:00:00.000Z
