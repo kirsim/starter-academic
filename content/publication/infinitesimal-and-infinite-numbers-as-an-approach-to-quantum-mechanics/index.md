@@ -22,7 +22,7 @@ tags:
 categories:
   - quantum foundations
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Representation of the hyperreal line
