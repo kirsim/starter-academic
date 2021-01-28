@@ -4,8 +4,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Applied Nonstandard Analysis
-  - Fundamental Questions
   - Quantum Foundations
+  - Quantum Information
 social:
   - icon: envelope
     icon_pack: fas
