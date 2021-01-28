@@ -1,8 +1,7 @@
 ---
 role: Mathematical Physicist
 avatar_filename: avatar.jpg
-bio: My research interests include quantum foundations, applied nonstandard
-  analysis, and fundamental questions of physics.
+bio: ""
 interests:
   - Applied Nonstandard Analysis
   - Fundamental Questions
@@ -29,7 +28,7 @@ social:
     icon: researchgate
     link: https://www.researchgate.net/profile/Kyrylo_Simonov
 organizations:
-  - name: University of Vienna
+  - name: Faculty of Mathematics, University of Vienna
     url: https://mat.univie.ac.at/
 education:
   courses:
@@ -47,6 +46,8 @@ highlight_name: false
 title: Dr. Kyrylo Simonov
 email: ""
 ---
-I am postdoctoral researcher working on mathematical foundations of quantum mechanics. I was awarded my PhD in June 2018 from University of Vienna with the thesis “Analysis of Spontaneous Collapse in a Neutral Meson System” focused on the intersection of quantum foundations (measurement problem, spontaneous collapse models) and high energy physics (particle phenomenology). Before my graduate studies at UV, I received degrees in physics at Taras Shevchenko National University of Kyiv with concentration in theoretical biological physics (statistical mechanics of DNA). My current research focuses on quantum foundations and tools from nonstandard analysis to find a consistent mathematical framework of quantum theory.
+I am postdoctoral researcher currently working on [quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations) and tools from [nonstandard analysis](https://en.wikipedia.org/wiki/Nonstandard_analysis) to find a consistent [mathematical framework of quantum theory](https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics).
+
+I was awarded my PhD in June 2018 from University of Vienna with the thesis “Analysis of Spontaneous Collapse in a Neutral Meson System” focused on the intersection of quantum foundations ([measurement problem,](https://en.wikipedia.org/wiki/Measurement_problem) [spontaneous collapse models](https://en.wikipedia.org/wiki/Objective-collapse_theory)) and high energy physics ([mixed particle systems](https://en.wikipedia.org/wiki/Neutral_particle_oscillation)). Before my graduate studies at UV, I received degrees in physics at Taras Shevchenko National University of Kyiv with concentration in theoretical biological physics ([statistical mechanics of DNA](https://www.springer.com/de/book/9781563960710)).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/SimonovCV.pdf" "newtab" >}}CV{{< /staticref >}}.
