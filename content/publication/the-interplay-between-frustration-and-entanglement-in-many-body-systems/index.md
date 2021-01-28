@@ -35,5 +35,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Classification of two-body Heisenberg-like models due to the admitted
+    ground states
 date: 2018-02-06T14:32:00.000Z
 ---
