@@ -8,7 +8,7 @@ date_end: 2019-09-26T08:45:00.000Z
 all_day: false
 event: Is Quantum Theory exact? From quantum foundations to quantum applications
 event_url: https://agenda.infn.it/event/19468/
-publishDate: 2019-09-26T08:25:00.000Z
+publishDate: 2018-09-26T08:25:00.000Z
 draft: false
 featured: false
 image:
