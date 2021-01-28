@@ -34,7 +34,8 @@ categories:
   - quantum foundations
 image:
   filename: featured.png
-  focal_point: Right
-  preview_only: true
+  focal_point: Smart
+  preview_only: false
+  caption: Dependence of the effective collapse rate on the reference mass
 date: 2020-08-25T12:13:00.000Z
 ---
