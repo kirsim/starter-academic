@@ -11,12 +11,6 @@ url_video: ""
 date: 2019-11-14T14:00:00.000Z
 featured: false
 url_slides: ""
-address:
-  street: Boltzmanngasse 3
-  city: Vienna
-  region: null
-  postcode: "1090"
-  country: Austria
 title: Nonstandard analysis meets quantum mechanics
 location: IQOQI, Boltzmanngasse 3, 1090 Vienna, Austria
 links: []
