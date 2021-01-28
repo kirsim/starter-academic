@@ -27,5 +27,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Representation of two types of kinks in the DNA structure known in the
+    literature
 date: 2018-09-28T13:27:00.000Z
 ---
