@@ -18,8 +18,7 @@ address:
   postcode: "1090"
   country: Austria
 title: Nonstandard analysis meets quantum mechanics
-location: Institute for Quantum Optics and Quantum Information (IQOQI) of the
-  Austrian Academy of Sciences, Vienna, Austria
+location: IQOQI, Vienna, Austria
 links: []
 event: IQOQI Seminar
 publishDate: 2019-11-14T13:00:00.000Z
