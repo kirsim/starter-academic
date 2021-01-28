@@ -7,7 +7,9 @@ authors:
   - Giacomo Guarnieri
   - and Mauro Paternostro
 doi: ""
-url_custom = [{name = "arXiv", url="https://arxiv.org/abs/2009.11265"}]
+url_custom:
+  name: "arXiv"
+  url: "https://arxiv.org/abs/2009.11265"
 publication: In *arXiv*
 abstract: We characterize the impact that the application of two consecutive
   quantum channels or their quantum superposition (thus, without a definite
