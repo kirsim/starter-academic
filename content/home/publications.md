@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Publications
+widget_id: publications
 weight: 90
 title: Publications
 subtitle: ""
@@ -20,7 +20,3 @@ headless: true
 design:
   view: 2
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
